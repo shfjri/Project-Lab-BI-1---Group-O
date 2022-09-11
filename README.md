@@ -2,6 +2,7 @@
 
 ## Background
   Pada tahun 2022, Pemprov, Pemkot, Pemkab, Dinas Kesehatan dan Dinas Pemberdayaan dan Perlindungan Perempuan dan Anak ingin merancang program tepat guna untuk sektor Kesehatan ibu dan anak. Namun, mereka kesulitan untuk menentukan program dan prioritas pada tiap daerah.
+  
   Salah satu cara untuk menjawab permasalahan itu adalah dengan data kesehatan terkait ibu dan anak beberapa tahun ke belakang. Dengan data tersebut, dapat dibuat sebuah dashboard visualisasi mengenaik kondisi kesehatan ibu dan anak beberapa tahun ke belakang di tiap daerah. Melalui dashboard tersebut, para _stakeholder_ dapat lebih mudah dalam merancang program yg tepat guna dan memilih prioritas daerah sasaran.
 
 ## Tujuan
@@ -36,6 +37,7 @@ _Dashboard_:
 
 ## Analisis
   Melalui _dashboard_ ini, user dapat mengetahui kondisi kesehatan secara umum di Jawa Barat, khususnya mengenai kondisi ibu hamil, bayi serta balita. Terdapat beberapa kasus yang dapat menjadi perhatian bagi user dalam menentukan program terkait kesehatan ibu dan anak (bayi dan balita). Salah satu contohnya adalah user dapat menentukan daerah mana yang harus mendapat perhatian dalam hal imunisasi dasar bayi. Karena tentu saja imunisasi dasar bayi dapat mempengaruhi kondisi kesehatan bayi yang juga mungkin berpengaruh kepada angka balita stunting.
+	
 	Dengan adanya _dashboard_ ini, diharapkan dapat menjawab permasalahan user dan memudahkan user dalam merancang program yang tepat sasaran untuk tiap kasus dan daerah. Melalui program yang tepat sasaran tersebut, kondisi kesehatan (ibu hamil, bayi dan balita) di Jawa Barat dapat membaik.
 
 ## Kesimpulan
