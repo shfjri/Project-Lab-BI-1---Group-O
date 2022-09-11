@@ -1,0 +1,327 @@
+nama_kabupaten_kota,kab/kota,tahun,keterangan,total
+KABUPATEN BOGOR,Bogor,2010-01-01,Balita Stunting,
+KABUPATEN SUKABUMI,Sukabumi,2010-01-01,Balita Stunting,
+KABUPATEN CIANJUR,Cianjur,2010-01-01,Balita Stunting,
+KABUPATEN BANDUNG,Bandung,2010-01-01,Balita Stunting,
+KABUPATEN GARUT,Garut,2010-01-01,Balita Stunting,
+KABUPATEN TASIKMALAYA,Tasikmalaya,2010-01-01,Balita Stunting,
+KABUPATEN CIAMIS,Ciamis,2010-01-01,Balita Stunting,
+KABUPATEN KUNINGAN,Kuningan,2010-01-01,Balita Stunting,
+KABUPATEN CIREBON,Cirebon,2010-01-01,Balita Stunting,
+KABUPATEN MAJALENGKA,Majalengka,2010-01-01,Balita Stunting,
+KABUPATEN SUMEDANG,Sumedang,2010-01-01,Balita Stunting,
+KABUPATEN INDRAMAYU,Indramayu,2010-01-01,Balita Stunting,
+KABUPATEN SUBANG,Subang,2010-01-01,Balita Stunting,
+KABUPATEN PURWAKARTA,Purwakarta,2010-01-01,Balita Stunting,
+KABUPATEN KARAWANG,Karawang,2010-01-01,Balita Stunting,
+KABUPATEN BEKASI,Bekasi,2010-01-01,Balita Stunting,
+KABUPATEN BANDUNG BARAT,Bandung Barat,2010-01-01,Balita Stunting,
+KABUPATEN PANGANDARAN,Pangandaran,2010-01-01,Balita Stunting,
+KOTA BOGOR,Kota Bogor,2010-01-01,Balita Stunting,
+KOTA SUKABUMI,Kota Sukabumi,2010-01-01,Balita Stunting,
+KOTA BANDUNG,Kota Bandung,2010-01-01,Balita Stunting,
+KOTA CIREBON,Kota Cirebon,2010-01-01,Balita Stunting,
+KOTA BEKASI,Kota Bekasi,2010-01-01,Balita Stunting,
+KOTA DEPOK,Kota Depok,2010-01-01,Balita Stunting,
+KOTA CIMAHI,Kota Cimahi,2010-01-01,Balita Stunting,
+KOTA TASIKMALAYA,Kota Tasikmalaya,2010-01-01,Balita Stunting,
+KOTA BANJAR,Kota Banjar,2010-01-01,Balita Stunting,
+KABUPATEN BOGOR,Bogor,2011-01-01,Balita Stunting,
+KABUPATEN SUKABUMI,Sukabumi,2011-01-01,Balita Stunting,
+KABUPATEN CIANJUR,Cianjur,2011-01-01,Balita Stunting,
+KABUPATEN BANDUNG,Bandung,2011-01-01,Balita Stunting,
+KABUPATEN GARUT,Garut,2011-01-01,Balita Stunting,
+KABUPATEN TASIKMALAYA,Tasikmalaya,2011-01-01,Balita Stunting,
+KABUPATEN CIAMIS,Ciamis,2011-01-01,Balita Stunting,
+KABUPATEN KUNINGAN,Kuningan,2011-01-01,Balita Stunting,
+KABUPATEN CIREBON,Cirebon,2011-01-01,Balita Stunting,
+KABUPATEN MAJALENGKA,Majalengka,2011-01-01,Balita Stunting,
+KABUPATEN SUMEDANG,Sumedang,2011-01-01,Balita Stunting,
+KABUPATEN INDRAMAYU,Indramayu,2011-01-01,Balita Stunting,
+KABUPATEN SUBANG,Subang,2011-01-01,Balita Stunting,
+KABUPATEN PURWAKARTA,Purwakarta,2011-01-01,Balita Stunting,
+KABUPATEN KARAWANG,Karawang,2011-01-01,Balita Stunting,
+KABUPATEN BEKASI,Bekasi,2011-01-01,Balita Stunting,
+KABUPATEN BANDUNG BARAT,Bandung Barat,2011-01-01,Balita Stunting,
+KABUPATEN PANGANDARAN,Pangandaran,2011-01-01,Balita Stunting,
+KOTA BOGOR,Kota Bogor,2011-01-01,Balita Stunting,
+KOTA SUKABUMI,Kota Sukabumi,2011-01-01,Balita Stunting,
+KOTA BANDUNG,Kota Bandung,2011-01-01,Balita Stunting,
+KOTA CIREBON,Kota Cirebon,2011-01-01,Balita Stunting,
+KOTA BEKASI,Kota Bekasi,2011-01-01,Balita Stunting,
+KOTA DEPOK,Kota Depok,2011-01-01,Balita Stunting,
+KOTA CIMAHI,Kota Cimahi,2011-01-01,Balita Stunting,
+KOTA TASIKMALAYA,Kota Tasikmalaya,2011-01-01,Balita Stunting,
+KOTA BANJAR,Kota Banjar,2011-01-01,Balita Stunting,
+KABUPATEN BOGOR,Bogor,2012-01-01,Balita Stunting,
+KABUPATEN SUKABUMI,Sukabumi,2012-01-01,Balita Stunting,
+KABUPATEN CIANJUR,Cianjur,2012-01-01,Balita Stunting,
+KABUPATEN BANDUNG,Bandung,2012-01-01,Balita Stunting,
+KABUPATEN GARUT,Garut,2012-01-01,Balita Stunting,
+KABUPATEN TASIKMALAYA,Tasikmalaya,2012-01-01,Balita Stunting,
+KABUPATEN CIAMIS,Ciamis,2012-01-01,Balita Stunting,
+KABUPATEN KUNINGAN,Kuningan,2012-01-01,Balita Stunting,
+KABUPATEN CIREBON,Cirebon,2012-01-01,Balita Stunting,
+KABUPATEN MAJALENGKA,Majalengka,2012-01-01,Balita Stunting,
+KABUPATEN SUMEDANG,Sumedang,2012-01-01,Balita Stunting,
+KABUPATEN INDRAMAYU,Indramayu,2012-01-01,Balita Stunting,
+KABUPATEN SUBANG,Subang,2012-01-01,Balita Stunting,
+KABUPATEN PURWAKARTA,Purwakarta,2012-01-01,Balita Stunting,
+KABUPATEN KARAWANG,Karawang,2012-01-01,Balita Stunting,
+KABUPATEN BEKASI,Bekasi,2012-01-01,Balita Stunting,
+KABUPATEN BANDUNG BARAT,Bandung Barat,2012-01-01,Balita Stunting,
+KABUPATEN PANGANDARAN,Pangandaran,2012-01-01,Balita Stunting,
+KOTA BOGOR,Kota Bogor,2012-01-01,Balita Stunting,
+KOTA SUKABUMI,Kota Sukabumi,2012-01-01,Balita Stunting,
+KOTA BANDUNG,Kota Bandung,2012-01-01,Balita Stunting,
+KOTA CIREBON,Kota Cirebon,2012-01-01,Balita Stunting,
+KOTA BEKASI,Kota Bekasi,2012-01-01,Balita Stunting,
+KOTA DEPOK,Kota Depok,2012-01-01,Balita Stunting,
+KOTA CIMAHI,Kota Cimahi,2012-01-01,Balita Stunting,
+KOTA TASIKMALAYA,Kota Tasikmalaya,2012-01-01,Balita Stunting,
+KOTA BANJAR,Kota Banjar,2012-01-01,Balita Stunting,
+KABUPATEN BOGOR,Bogor,2013-01-01,Balita Stunting,
+KABUPATEN SUKABUMI,Sukabumi,2013-01-01,Balita Stunting,
+KABUPATEN CIANJUR,Cianjur,2013-01-01,Balita Stunting,
+KABUPATEN BANDUNG,Bandung,2013-01-01,Balita Stunting,
+KABUPATEN GARUT,Garut,2013-01-01,Balita Stunting,
+KABUPATEN TASIKMALAYA,Tasikmalaya,2013-01-01,Balita Stunting,
+KABUPATEN CIAMIS,Ciamis,2013-01-01,Balita Stunting,
+KABUPATEN KUNINGAN,Kuningan,2013-01-01,Balita Stunting,
+KABUPATEN CIREBON,Cirebon,2013-01-01,Balita Stunting,
+KABUPATEN MAJALENGKA,Majalengka,2013-01-01,Balita Stunting,
+KABUPATEN SUMEDANG,Sumedang,2013-01-01,Balita Stunting,
+KABUPATEN INDRAMAYU,Indramayu,2013-01-01,Balita Stunting,
+KABUPATEN SUBANG,Subang,2013-01-01,Balita Stunting,
+KABUPATEN PURWAKARTA,Purwakarta,2013-01-01,Balita Stunting,
+KABUPATEN KARAWANG,Karawang,2013-01-01,Balita Stunting,
+KABUPATEN BEKASI,Bekasi,2013-01-01,Balita Stunting,
+KABUPATEN BANDUNG BARAT,Bandung Barat,2013-01-01,Balita Stunting,
+KABUPATEN PANGANDARAN,Pangandaran,2013-01-01,Balita Stunting,
+KOTA BOGOR,Kota Bogor,2013-01-01,Balita Stunting,
+KOTA SUKABUMI,Kota Sukabumi,2013-01-01,Balita Stunting,
+KOTA BANDUNG,Kota Bandung,2013-01-01,Balita Stunting,
+KOTA CIREBON,Kota Cirebon,2013-01-01,Balita Stunting,
+KOTA BEKASI,Kota Bekasi,2013-01-01,Balita Stunting,
+KOTA DEPOK,Kota Depok,2013-01-01,Balita Stunting,
+KOTA CIMAHI,Kota Cimahi,2013-01-01,Balita Stunting,
+KOTA TASIKMALAYA,Kota Tasikmalaya,2013-01-01,Balita Stunting,
+KOTA BANJAR,Kota Banjar,2013-01-01,Balita Stunting,
+KABUPATEN BOGOR,Bogor,2014-01-01,Balita Stunting,40314.0
+KABUPATEN SUKABUMI,Sukabumi,2014-01-01,Balita Stunting,25332.0
+KABUPATEN CIANJUR,Cianjur,2014-01-01,Balita Stunting,26687.0
+KABUPATEN BANDUNG,Bandung,2014-01-01,Balita Stunting,46412.0
+KABUPATEN GARUT,Garut,2014-01-01,Balita Stunting,14609.0
+KABUPATEN TASIKMALAYA,Tasikmalaya,2014-01-01,Balita Stunting,28481.0
+KABUPATEN CIAMIS,Ciamis,2014-01-01,Balita Stunting,2929.0
+KABUPATEN KUNINGAN,Kuningan,2014-01-01,Balita Stunting,6551.0
+KABUPATEN CIREBON,Cirebon,2014-01-01,Balita Stunting,22805.0
+KABUPATEN MAJALENGKA,Majalengka,2014-01-01,Balita Stunting,9396.0
+KABUPATEN SUMEDANG,Sumedang,2014-01-01,Balita Stunting,0.0
+KABUPATEN INDRAMAYU,Indramayu,2014-01-01,Balita Stunting,0.0
+KABUPATEN SUBANG,Subang,2014-01-01,Balita Stunting,4152.0
+KABUPATEN PURWAKARTA,Purwakarta,2014-01-01,Balita Stunting,6091.0
+KABUPATEN KARAWANG,Karawang,2014-01-01,Balita Stunting,23912.0
+KABUPATEN BEKASI,Bekasi,2014-01-01,Balita Stunting,23473.0
+KABUPATEN BANDUNG BARAT,Bandung Barat,2014-01-01,Balita Stunting,20233.0
+KABUPATEN PANGANDARAN,Pangandaran,2014-01-01,Balita Stunting,6055.0
+KOTA BOGOR,Kota Bogor,2014-01-01,Balita Stunting,2601.0
+KOTA SUKABUMI,Kota Sukabumi,2014-01-01,Balita Stunting,11761.0
+KOTA BANDUNG,Kota Bandung,2014-01-01,Balita Stunting,2466.0
+KOTA CIREBON,Kota Cirebon,2014-01-01,Balita Stunting,22993.0
+KOTA BEKASI,Kota Bekasi,2014-01-01,Balita Stunting,10106.0
+KOTA DEPOK,Kota Depok,2014-01-01,Balita Stunting,6199.0
+KOTA CIMAHI,Kota Cimahi,2014-01-01,Balita Stunting,6859.0
+KOTA TASIKMALAYA,Kota Tasikmalaya,2014-01-01,Balita Stunting,912.0
+KOTA BANJAR,Kota Banjar,2014-01-01,Balita Stunting,660.0
+KABUPATEN BOGOR,Bogor,2015-01-01,Balita Stunting,33721.0
+KABUPATEN SUKABUMI,Sukabumi,2015-01-01,Balita Stunting,20488.0
+KABUPATEN CIANJUR,Cianjur,2015-01-01,Balita Stunting,26582.0
+KABUPATEN BANDUNG,Bandung,2015-01-01,Balita Stunting,16357.0
+KABUPATEN GARUT,Garut,2015-01-01,Balita Stunting,16624.0
+KABUPATEN TASIKMALAYA,Tasikmalaya,2015-01-01,Balita Stunting,18697.0
+KABUPATEN CIAMIS,Ciamis,2015-01-01,Balita Stunting,2236.0
+KABUPATEN KUNINGAN,Kuningan,2015-01-01,Balita Stunting,3976.0
+KABUPATEN CIREBON,Cirebon,2015-01-01,Balita Stunting,22667.0
+KABUPATEN MAJALENGKA,Majalengka,2015-01-01,Balita Stunting,5785.0
+KABUPATEN SUMEDANG,Sumedang,2015-01-01,Balita Stunting,2164.0
+KABUPATEN INDRAMAYU,Indramayu,2015-01-01,Balita Stunting,17049.0
+KABUPATEN SUBANG,Subang,2015-01-01,Balita Stunting,3005.0
+KABUPATEN PURWAKARTA,Purwakarta,2015-01-01,Balita Stunting,7820.0
+KABUPATEN KARAWANG,Karawang,2015-01-01,Balita Stunting,24795.0
+KABUPATEN BEKASI,Bekasi,2015-01-01,Balita Stunting,20699.0
+KABUPATEN BANDUNG BARAT,Bandung Barat,2015-01-01,Balita Stunting,14809.0
+KABUPATEN PANGANDARAN,Pangandaran,2015-01-01,Balita Stunting,7030.0
+KOTA BOGOR,Kota Bogor,2015-01-01,Balita Stunting,1975.0
+KOTA SUKABUMI,Kota Sukabumi,2015-01-01,Balita Stunting,12142.0
+KOTA BANDUNG,Kota Bandung,2015-01-01,Balita Stunting,2778.0
+KOTA CIREBON,Kota Cirebon,2015-01-01,Balita Stunting,18145.0
+KOTA BEKASI,Kota Bekasi,2015-01-01,Balita Stunting,8952.0
+KOTA DEPOK,Kota Depok,2015-01-01,Balita Stunting,6298.0
+KOTA CIMAHI,Kota Cimahi,2015-01-01,Balita Stunting,7769.0
+KOTA TASIKMALAYA,Kota Tasikmalaya,2015-01-01,Balita Stunting,908.0
+KOTA BANJAR,Kota Banjar,2015-01-01,Balita Stunting,1194.0
+KABUPATEN BOGOR,Bogor,2016-01-01,Balita Stunting,32035.0
+KABUPATEN SUKABUMI,Sukabumi,2016-01-01,Balita Stunting,28376.0
+KABUPATEN CIANJUR,Cianjur,2016-01-01,Balita Stunting,26666.0
+KABUPATEN BANDUNG,Bandung,2016-01-01,Balita Stunting,20391.0
+KABUPATEN GARUT,Garut,2016-01-01,Balita Stunting,15305.0
+KABUPATEN TASIKMALAYA,Tasikmalaya,2016-01-01,Balita Stunting,17563.0
+KABUPATEN CIAMIS,Ciamis,2016-01-01,Balita Stunting,4092.0
+KABUPATEN KUNINGAN,Kuningan,2016-01-01,Balita Stunting,7205.0
+KABUPATEN CIREBON,Cirebon,2016-01-01,Balita Stunting,24626.0
+KABUPATEN MAJALENGKA,Majalengka,2016-01-01,Balita Stunting,3257.0
+KABUPATEN SUMEDANG,Sumedang,2016-01-01,Balita Stunting,9688.0
+KABUPATEN INDRAMAYU,Indramayu,2016-01-01,Balita Stunting,26430.0
+KABUPATEN SUBANG,Subang,2016-01-01,Balita Stunting,5757.0
+KABUPATEN PURWAKARTA,Purwakarta,2016-01-01,Balita Stunting,7803.0
+KABUPATEN KARAWANG,Karawang,2016-01-01,Balita Stunting,23411.0
+KABUPATEN BEKASI,Bekasi,2016-01-01,Balita Stunting,10843.0
+KABUPATEN BANDUNG BARAT,Bandung Barat,2016-01-01,Balita Stunting,10734.0
+KABUPATEN PANGANDARAN,Pangandaran,2016-01-01,Balita Stunting,1284.0
+KOTA BOGOR,Kota Bogor,2016-01-01,Balita Stunting,6794.0
+KOTA SUKABUMI,Kota Sukabumi,2016-01-01,Balita Stunting,2457.0
+KOTA BANDUNG,Kota Bandung,2016-01-01,Balita Stunting,9194.0
+KOTA CIREBON,Kota Cirebon,2016-01-01,Balita Stunting,2767.0
+KOTA BEKASI,Kota Bekasi,2016-01-01,Balita Stunting,16707.0
+KOTA DEPOK,Kota Depok,2016-01-01,Balita Stunting,8850.0
+KOTA CIMAHI,Kota Cimahi,2016-01-01,Balita Stunting,5605.0
+KOTA TASIKMALAYA,Kota Tasikmalaya,2016-01-01,Balita Stunting,7145.0
+KOTA BANJAR,Kota Banjar,2016-01-01,Balita Stunting,1154.0
+KABUPATEN BOGOR,Bogor,2017-01-01,Balita Stunting,23797.0
+KABUPATEN SUKABUMI,Sukabumi,2017-01-01,Balita Stunting,22776.0
+KABUPATEN CIANJUR,Cianjur,2017-01-01,Balita Stunting,27625.0
+KABUPATEN BANDUNG,Bandung,2017-01-01,Balita Stunting,12272.0
+KABUPATEN GARUT,Garut,2017-01-01,Balita Stunting,6619.0
+KABUPATEN TASIKMALAYA,Tasikmalaya,2017-01-01,Balita Stunting,17588.0
+KABUPATEN CIAMIS,Ciamis,2017-01-01,Balita Stunting,5831.0
+KABUPATEN KUNINGAN,Kuningan,2017-01-01,Balita Stunting,5101.0
+KABUPATEN CIREBON,Cirebon,2017-01-01,Balita Stunting,20017.0
+KABUPATEN MAJALENGKA,Majalengka,2017-01-01,Balita Stunting,2295.0
+KABUPATEN SUMEDANG,Sumedang,2017-01-01,Balita Stunting,9222.0
+KABUPATEN INDRAMAYU,Indramayu,2017-01-01,Balita Stunting,18227.0
+KABUPATEN SUBANG,Subang,2017-01-01,Balita Stunting,4275.0
+KABUPATEN PURWAKARTA,Purwakarta,2017-01-01,Balita Stunting,6858.0
+KABUPATEN KARAWANG,Karawang,2017-01-01,Balita Stunting,16865.0
+KABUPATEN BEKASI,Bekasi,2017-01-01,Balita Stunting,3861.0
+KABUPATEN BANDUNG BARAT,Bandung Barat,2017-01-01,Balita Stunting,10487.0
+KABUPATEN PANGANDARAN,Pangandaran,2017-01-01,Balita Stunting,993.0
+KOTA BOGOR,Kota Bogor,2017-01-01,Balita Stunting,5538.0
+KOTA SUKABUMI,Kota Sukabumi,2017-01-01,Balita Stunting,2161.0
+KOTA BANDUNG,Kota Bandung,2017-01-01,Balita Stunting,2506.0
+KOTA CIREBON,Kota Cirebon,2017-01-01,Balita Stunting,2953.0
+KOTA BEKASI,Kota Bekasi,2017-01-01,Balita Stunting,18215.0
+KOTA DEPOK,Kota Depok,2017-01-01,Balita Stunting,6835.0
+KOTA CIMAHI,Kota Cimahi,2017-01-01,Balita Stunting,3447.0
+KOTA TASIKMALAYA,Kota Tasikmalaya,2017-01-01,Balita Stunting,6572.0
+KOTA BANJAR,Kota Banjar,2017-01-01,Balita Stunting,1036.0
+KABUPATEN BOGOR,Bogor,2018-01-01,Balita Stunting,7642.0
+KABUPATEN SUKABUMI,Sukabumi,2018-01-01,Balita Stunting,10691.0
+KABUPATEN CIANJUR,Cianjur,2018-01-01,Balita Stunting,12476.0
+KABUPATEN BANDUNG,Bandung,2018-01-01,Balita Stunting,21131.0
+KABUPATEN GARUT,Garut,2018-01-01,Balita Stunting,10368.0
+KABUPATEN TASIKMALAYA,Tasikmalaya,2018-01-01,Balita Stunting,18644.0
+KABUPATEN CIAMIS,Ciamis,2018-01-01,Balita Stunting,4847.0
+KABUPATEN KUNINGAN,Kuningan,2018-01-01,Balita Stunting,5906.0
+KABUPATEN CIREBON,Cirebon,2018-01-01,Balita Stunting,11082.0
+KABUPATEN MAJALENGKA,Majalengka,2018-01-01,Balita Stunting,1958.0
+KABUPATEN SUMEDANG,Sumedang,2018-01-01,Balita Stunting,8032.0
+KABUPATEN INDRAMAYU,Indramayu,2018-01-01,Balita Stunting,25558.0
+KABUPATEN SUBANG,Subang,2018-01-01,Balita Stunting,3741.0
+KABUPATEN PURWAKARTA,Purwakarta,2018-01-01,Balita Stunting,5953.0
+KABUPATEN KARAWANG,Karawang,2018-01-01,Balita Stunting,18436.0
+KABUPATEN BEKASI,Bekasi,2018-01-01,Balita Stunting,6045.0
+KABUPATEN BANDUNG BARAT,Bandung Barat,2018-01-01,Balita Stunting,7578.0
+KABUPATEN PANGANDARAN,Pangandaran,2018-01-01,Balita Stunting,634.0
+KOTA BOGOR,Kota Bogor,2018-01-01,Balita Stunting,4050.0
+KOTA SUKABUMI,Kota Sukabumi,2018-01-01,Balita Stunting,2826.0
+KOTA BANDUNG,Kota Bandung,2018-01-01,Balita Stunting,10048.0
+KOTA CIREBON,Kota Cirebon,2018-01-01,Balita Stunting,2253.0
+KOTA BEKASI,Kota Bekasi,2018-01-01,Balita Stunting,8087.0
+KOTA DEPOK,Kota Depok,2018-01-01,Balita Stunting,6751.0
+KOTA CIMAHI,Kota Cimahi,2018-01-01,Balita Stunting,3585.0
+KOTA TASIKMALAYA,Kota Tasikmalaya,2018-01-01,Balita Stunting,5149.0
+KOTA BANJAR,Kota Banjar,2018-01-01,Balita Stunting,1054.0
+KABUPATEN BOGOR,Bogor,2019-01-01,Balita Stunting,18752.0
+KABUPATEN SUKABUMI,Sukabumi,2019-01-01,Balita Stunting,15583.0
+KABUPATEN CIANJUR,Cianjur,2019-01-01,Balita Stunting,12761.0
+KABUPATEN BANDUNG,Bandung,2019-01-01,Balita Stunting,19121.0
+KABUPATEN GARUT,Garut,2019-01-01,Balita Stunting,9723.0
+KABUPATEN TASIKMALAYA,Tasikmalaya,2019-01-01,Balita Stunting,17254.0
+KABUPATEN CIAMIS,Ciamis,2019-01-01,Balita Stunting,4254.0
+KABUPATEN KUNINGAN,Kuningan,2019-01-01,Balita Stunting,5553.0
+KABUPATEN CIREBON,Cirebon,2019-01-01,Balita Stunting,14127.0
+KABUPATEN MAJALENGKA,Majalengka,2019-01-01,Balita Stunting,4642.0
+KABUPATEN SUMEDANG,Sumedang,2019-01-01,Balita Stunting,6780.0
+KABUPATEN INDRAMAYU,Indramayu,2019-01-01,Balita Stunting,19458.0
+KABUPATEN SUBANG,Subang,2019-01-01,Balita Stunting,2476.0
+KABUPATEN PURWAKARTA,Purwakarta,2019-01-01,Balita Stunting,3451.0
+KABUPATEN KARAWANG,Karawang,2019-01-01,Balita Stunting,4940.0
+KABUPATEN BEKASI,Bekasi,2019-01-01,Balita Stunting,7436.0
+KABUPATEN BANDUNG BARAT,Bandung Barat,2019-01-01,Balita Stunting,9322.0
+KABUPATEN PANGANDARAN,Pangandaran,2019-01-01,Balita Stunting,7863.0
+KOTA BOGOR,Kota Bogor,2019-01-01,Balita Stunting,3757.0
+KOTA SUKABUMI,Kota Sukabumi,2019-01-01,Balita Stunting,2069.0
+KOTA BANDUNG,Kota Bandung,2019-01-01,Balita Stunting,8121.0
+KOTA CIREBON,Kota Cirebon,2019-01-01,Balita Stunting,2411.0
+KOTA BEKASI,Kota Bekasi,2019-01-01,Balita Stunting,11737.0
+KOTA DEPOK,Kota Depok,2019-01-01,Balita Stunting,5241.0
+KOTA CIMAHI,Kota Cimahi,2019-01-01,Balita Stunting,3269.0
+KOTA TASIKMALAYA,Kota Tasikmalaya,2019-01-01,Balita Stunting,5373.0
+KOTA BANJAR,Kota Banjar,2019-01-01,Balita Stunting,962.0
+KABUPATEN BOGOR,Bogor,2020-01-01,Balita Stunting,34020.0
+KABUPATEN SUKABUMI,Sukabumi,2020-01-01,Balita Stunting,14106.0
+KABUPATEN CIANJUR,Cianjur,2020-01-01,Balita Stunting,11680.0
+KABUPATEN BANDUNG,Bandung,2020-01-01,Balita Stunting,29581.0
+KABUPATEN GARUT,Garut,2020-01-01,Balita Stunting,13523.0
+KABUPATEN TASIKMALAYA,Tasikmalaya,2020-01-01,Balita Stunting,18952.0
+KABUPATEN CIAMIS,Ciamis,2020-01-01,Balita Stunting,7688.0
+KABUPATEN KUNINGAN,Kuningan,2020-01-01,Balita Stunting,5298.0
+KABUPATEN CIREBON,Cirebon,2020-01-01,Balita Stunting,21733.0
+KABUPATEN MAJALENGKA,Majalengka,2020-01-01,Balita Stunting,4381.0
+KABUPATEN SUMEDANG,Sumedang,2020-01-01,Balita Stunting,8870.0
+KABUPATEN INDRAMAYU,Indramayu,2020-01-01,Balita Stunting,11166.0
+KABUPATEN SUBANG,Subang,2020-01-01,Balita Stunting,4283.0
+KABUPATEN PURWAKARTA,Purwakarta,2020-01-01,Balita Stunting,8051.0
+KABUPATEN KARAWANG,Karawang,2020-01-01,Balita Stunting,3982.0
+KABUPATEN BEKASI,Bekasi,2020-01-01,Balita Stunting,9373.0
+KABUPATEN BANDUNG BARAT,Bandung Barat,2020-01-01,Balita Stunting,15440.0
+KABUPATEN PANGANDARAN,Pangandaran,2020-01-01,Balita Stunting,1312.0
+KOTA BOGOR,Kota Bogor,2020-01-01,Balita Stunting,5948.0
+KOTA SUKABUMI,Kota Sukabumi,2020-01-01,Balita Stunting,1616.0
+KOTA BANDUNG,Kota Bandung,2020-01-01,Balita Stunting,9508.0
+KOTA CIREBON,Kota Cirebon,2020-01-01,Balita Stunting,2360.0
+KOTA BEKASI,Kota Bekasi,2020-01-01,Balita Stunting,13964.0
+KOTA DEPOK,Kota Depok,2020-01-01,Balita Stunting,6425.0
+KOTA CIMAHI,Kota Cimahi,2020-01-01,Balita Stunting,3708.0
+KOTA TASIKMALAYA,Kota Tasikmalaya,2020-01-01,Balita Stunting,7746.0
+KOTA BANJAR,Kota Banjar,2020-01-01,Balita Stunting,1355.0
+KABUPATEN BOGOR,Bogor,2021-01-01,Balita Stunting,30844.0
+KABUPATEN SUKABUMI,Sukabumi,2021-01-01,Balita Stunting,14347.0
+KABUPATEN CIANJUR,Cianjur,2021-01-01,Balita Stunting,7768.0
+KABUPATEN BANDUNG,Bandung,2021-01-01,Balita Stunting,20461.0
+KABUPATEN GARUT,Garut,2021-01-01,Balita Stunting,10027.0
+KABUPATEN TASIKMALAYA,Tasikmalaya,2021-01-01,Balita Stunting,15183.0
+KABUPATEN CIAMIS,Ciamis,2021-01-01,Balita Stunting,3303.0
+KABUPATEN KUNINGAN,Kuningan,2021-01-01,Balita Stunting,3665.0
+KABUPATEN CIREBON,Cirebon,2021-01-01,Balita Stunting,15220.0
+KABUPATEN MAJALENGKA,Majalengka,2021-01-01,Balita Stunting,2934.0
+KABUPATEN SUMEDANG,Sumedang,2021-01-01,Balita Stunting,8117.0
+KABUPATEN INDRAMAYU,Indramayu,2021-01-01,Balita Stunting,5208.0
+KABUPATEN SUBANG,Subang,2021-01-01,Balita Stunting,2088.0
+KABUPATEN PURWAKARTA,Purwakarta,2021-01-01,Balita Stunting,3709.0
+KABUPATEN KARAWANG,Karawang,2021-01-01,Balita Stunting,3715.0
+KABUPATEN BEKASI,Bekasi,2021-01-01,Balita Stunting,8755.0
+KABUPATEN BANDUNG BARAT,Bandung Barat,2021-01-01,Balita Stunting,12488.0
+KABUPATEN PANGANDARAN,Pangandaran,2021-01-01,Balita Stunting,999.0
+KOTA BOGOR,Kota Bogor,2021-01-01,Balita Stunting,3950.0
+KOTA SUKABUMI,Kota Sukabumi,2021-01-01,Balita Stunting,1180.0
+KOTA BANDUNG,Kota Bandung,2021-01-01,Balita Stunting,6312.0
+KOTA CIREBON,Kota Cirebon,2021-01-01,Balita Stunting,2411.0
+KOTA BEKASI,Kota Bekasi,2021-01-01,Balita Stunting,9820.0
+KOTA DEPOK,Kota Depok,2021-01-01,Balita Stunting,3726.0
+KOTA CIMAHI,Kota Cimahi,2021-01-01,Balita Stunting,3161.0
+KOTA TASIKMALAYA,Kota Tasikmalaya,2021-01-01,Balita Stunting,6194.0
+KOTA BANJAR ,Kota Banjar,2019-01-01,Balita Stunting,
+KOTA BANJAR ,Kota Banjar,2020-01-01,Balita Stunting,
+KOTA BANJAR,Kota Banjar,2021-01-01,Balita Stunting,929.0
