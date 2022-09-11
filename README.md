@@ -37,8 +37,8 @@ _Dashboard_:
 
 ## Analisis
   Melalui _dashboard_ ini, user dapat mengetahui kondisi kesehatan secara umum di Jawa Barat, khususnya mengenai kondisi ibu hamil, bayi serta balita. Terdapat beberapa kasus yang dapat menjadi perhatian bagi user dalam menentukan program terkait kesehatan ibu dan anak (bayi dan balita). Salah satu contohnya adalah user dapat menentukan daerah mana yang harus mendapat perhatian dalam hal imunisasi dasar bayi. Karena tentu saja imunisasi dasar bayi dapat mempengaruhi kondisi kesehatan bayi yang juga mungkin berpengaruh kepada angka balita stunting.
-	
-	Dengan adanya _dashboard_ ini, diharapkan dapat menjawab permasalahan user dan memudahkan user dalam merancang program yang tepat sasaran untuk tiap kasus dan daerah. Melalui program yang tepat sasaran tersebut, kondisi kesehatan (ibu hamil, bayi dan balita) di Jawa Barat dapat membaik.
+  
+  Dengan adanya _dashboard_ ini, diharapkan dapat menjawab permasalahan user dan memudahkan user dalam merancang program yang tepat sasaran untuk tiap kasus dan daerah. Melalui program yang tepat sasaran tersebut, kondisi kesehatan (ibu hamil, bayi dan balita) di Jawa Barat dapat membaik.
 
 ## Kesimpulan
   _Dashboard_ ini dapat membantu user dalam menentukan program dan prioritas daerah guna meningkatkan kondisi kesehatan di Jawa Barat. Dengan program dan prioritas daerah yang tepat sasaran, dapat menghemat anggaran tahunan. Selain itu, _dashboard_ ini juga dapat diakses publik agar publik juga sadar dan peduli terhadap kondisi kesehatan ibu hamil, bayi dan balita di Jawa Barat. Dengan demikian, harapan semua user serta publik akan peningkatan kondisi kesehatan di Jawa Barat dapat terpenuhi.
