@@ -40,3 +40,9 @@ _Dashboard_:
 
 ## Kesimpulan
   _Dashboard_ ini dapat membantu user dalam menentukan program dan prioritas daerah guna meningkatkan kondisi kesehatan di Jawa Barat. Dengan program dan prioritas daerah yang tepat sasaran, dapat menghemat anggaran tahunan. Selain itu, _dashboard_ ini juga dapat diakses publik agar publik juga sadar dan peduli terhadap kondisi kesehatan ibu hamil, bayi dan balita di Jawa Barat. Dengan demikian, harapan semua user serta publik akan peningkatan kondisi kesehatan di Jawa Barat dapat terpenuhi.
+
+## Dokumentasi
+1. _User flow_: [user flow](https://drive.google.com/file/d/1gPf86CHcM_Y4nIL28fG0Koo2t9O114J3/view?usp=sharing)
+2. _Prototype_: [prototype](https://drive.google.com/file/d/1VtZ8GuxT0vyDHgn0-8QutizBo5dHzp7a/view?usp=sharing)
+3. _Dashboard_: [Pantauan Kesehatan Ibu dan Anak Jawa Barat - Group O](https://public.tableau.com/views/MVP-KelompokOProjectLabBI/HalamanAwal?:language=en-US&:display_count=n&:origin=viz_share_link)
+
