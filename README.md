@@ -48,3 +48,7 @@ _Dashboard_:
 2. _Prototype_: [prototype](https://drive.google.com/file/d/1VtZ8GuxT0vyDHgn0-8QutizBo5dHzp7a/view?usp=sharing)
 3. _Dashboard_: [Pantauan Kesehatan Ibu dan Anak Jawa Barat - Group O](https://public.tableau.com/views/MVP-KelompokOProjectLabBI/HalamanAwal?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+## Referensi
+1. [PRD](https://drive.google.com/file/d/1DPJM9EpdLNSP-7qnPPvNeWqvTqRgyild/view)
+2. [_Easy Report_](https://drive.google.com/file/d/1p6gCfY1iQO_Nf4zktzOabuIg8zAEltp0/view)
+
