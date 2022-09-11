@@ -19,13 +19,17 @@ Metode:
 
 _Dashboard_:
 1. Kondisi umum kesehatan di Jawa Barat
+
 ![image](https://user-images.githubusercontent.com/52657638/189533320-fb4156b0-6c3d-45a7-9f86-ed5d17a969f3.png)
 
 2. Kondisi kesehatan balita di Jawa Barat
+
 ![image](https://user-images.githubusercontent.com/52657638/189533327-c65a9aa9-011f-4d2d-a1a5-711ea370590d.png)
 
 3. Kondisi kesehatan ibu hamil di Jawa Barat
+
 ![image](https://user-images.githubusercontent.com/52657638/189533352-6ab2da51-fd56-4b07-bf33-16dba112f4e5.png)
 
 4. Kondisi kesehatan bayi di Jawa Barat
+
 ![image](https://user-images.githubusercontent.com/52657638/189533332-db09668a-6525-4f84-9497-0be7170aaadf.png)
